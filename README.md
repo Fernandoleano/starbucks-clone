@@ -1,5 +1,7 @@
 # starbucks-clone
 
+url to the clone: https://starbucks-clone-beryl.vercel.app/
+
 This is a starbuck clone it was fun to make
 
 <img width="1440" alt="Screen Shot 2021-06-25 at 12 26 31 PM" src="https://user-images.githubusercontent.com/68082556/123456325-b904ec00-d5b0-11eb-89a6-f26624f02430.png">
